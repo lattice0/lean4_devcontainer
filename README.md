@@ -2,7 +2,8 @@
 LEAN4 devcontainer
 
 
-ˋˋˋbash
+```bash
 lake init project_name
 lake run 
-ˋˋˋ
+```
+
