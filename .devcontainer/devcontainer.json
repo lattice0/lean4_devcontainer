@@ -6,5 +6,7 @@
 		"leanprover.lean4",
 		"ms-azuretools.vscode-docker"
 	],
-
+	"containerEnv": {
+               "SHELL": "/bin/bash"
+	}
 }
